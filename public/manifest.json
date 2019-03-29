@@ -1,7 +1,7 @@
 {
-  "short_name": "robofriends",
-  "name": "robofriends",
-  "description": "A React App that searches through Robot users",
+  "short_name": "robofriends-redux",
+  "name": "robofriends-redux",
+  "description": "A React App that searches through Robot users using redux for state management",
   "icons": [
     {
       "src": "favicon.ico",
