@@ -3,7 +3,7 @@ import React from 'react';
 const SearchBox = ({ searchfield, searchChange}) => {
 	return (
 		<div style={{marginBottom: '20px'}}>
-      <label for='search' />
+      <label for='search'></label>
 			<input 
       className='pa3 ba b--green bg-lightest-blue'
 			type='search' 
@@ -12,6 +12,6 @@ const SearchBox = ({ searchfield, searchChange}) => {
       onChange={searchChange}
       />
 		</div>
-	)
+	);
 }
 export default SearchBox;
