@@ -4,11 +4,6 @@
   "description": "A React App that searches through Robot users using redux for state management",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "32x32 16x16",
-      "type": "image/x-icon"
-    },
-    {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
